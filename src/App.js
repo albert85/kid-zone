@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React from 'react'
-import logo from './logo.svg';
 import './App.css';
 
 const teachers = [
